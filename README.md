@@ -1,6 +1,6 @@
 # CS149 Repository
 
-Welcome to the CS149 repository! This repository contains projects I created during the course
+Welcome to the CS149 repository! This repository contains projects I created during my time in this course.
 
 ## Projects
 
